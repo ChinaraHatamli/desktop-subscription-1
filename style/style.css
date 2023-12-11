@@ -1,0 +1,57 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+section {
+  text-align: center;
+}
+
+div {
+  margin: auto;
+}
+div img {
+  width: auto;
+  height: auto;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  word-wrap: break-word;
+}
+
+p {
+  width: 400px;
+  padding: 10px 100px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  width: 500px;
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background-color: lightblue;
+  color: white;
+  border: none;
+  border-radius: none;
+  font-size: 14px;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0.2px;
+  word-wrap: break-word;
+}/*# sourceMappingURL=style.css.map */
